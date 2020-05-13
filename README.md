@@ -15,4 +15,4 @@ This snippet loads https://example.com, wait for any actions with interface elem
 command in terminal: node script.js 
 
 
-more about chromeDevtoolsProtocol - https://chromedevtools.github.io/devtools-protocol/tot/DOM/#type-NodeId
+more about chromeDevtoolsProtocol - https://chromedevtools.github.io/devtools-protocol/
